@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2623f9c0-b79a-484d-90f6-873749e790d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.buckconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.watchmanconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screenshoots/Simulator Screen Shot - iPhone X - 2021-03-21 at 22.11.38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__tests__/App-test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/_BUCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build_defs.bzl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/debug/java/com/counter/ReactNativeFlipper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/counter/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/counter/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/icons/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Counter.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Counter.xcodeproj/xcshareddata/xcschemes/Counter.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Counter.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Counter.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Counter/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Counter/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Counter/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Counter/Images.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Counter/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Counter/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Counter/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/CounterTests/CounterTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/CounterTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../metro.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/home/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/home/containers/home-view.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/home/epics.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/home/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/home/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/home/reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/home/selectors.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/services.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/middlewares/action-purify.middleware.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/middlewares/epic.middleware.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/models/action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/models/app-action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/models/app-epic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/models/app-state.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/models/app-store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/models/epic-dependencies.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/models/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/root-epic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/root-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/services/helpers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/services/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/services/names.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/services/services.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/store/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/ui/components/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/ui/components/footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/ui/components/header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/ui/components/progress-circle.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/ui/const/colors.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/ui/const/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/ui/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/app/ui/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qDSqLCBDu3wcInFbKPWZGKoreT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Counter.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2623f9c0-b79a-484d-90f6-873749e790d2" name="Default Changelist" comment="" />
+      <created>1616612856216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616612856216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616613329443">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="318" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1616613329443" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1616613218901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1616613218901" />
+  </component>
+</project>

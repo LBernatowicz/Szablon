@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Counter.iml" filepath="$PROJECT_DIR$/.idea/modules/Counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Counter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Counter.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2073509550/Counter.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-2073509550/Counter.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-395201816/Counter.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-395201816/Counter.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/224749306/Counter.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/224749306/Counter.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1180454575/Counter.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1180454575/Counter.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1745241990/Counter.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1745241990/Counter.react-native-svg.iml" />
+    </modules>
+  </component>
+</project>
